@@ -12,7 +12,7 @@ humantime: "9:00 am - 5:00 pm"    # human-readable times for the workshop (e.g.,
 startdate: 2017-01-24    # machine-readable start date like 2015-01-01
 enddate: 2017-01-25      # machine-readable end date
 instructor: ["Jason Williams", "Andy Fraser"]
-helper: ["Jonathan Maccarthy","Reid Porter"]
+helper: ["Stephen Andrews","Jonathan Maccarthy","Reid Porter"]
 contact: ["afraser@lanl.gov", "katrin@lanl.gov"]
 collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
@@ -128,9 +128,11 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   Modify the block below if there are any special requirements.
 -->
 <p id="requirements">
-  <strong>Requirements:</strong> Participants must bring a laptop with a
-  Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges
-  on. They should have a few specific software packages installed (listed
+  <strong>Requirements:</strong> Participants must bring a laptop with
+  a Mac, Linux, or Windows operating system (not a tablet, Chromebook,
+  etc.) that they have <strong>administrative privileges</strong>
+  on. They should have a few specific software packages installed
+  (listed
   <a href="#setup">below</a>). They are also required to abide by
   {% if page.carpentry == "swc" %}
   Software Carpentry's
@@ -615,7 +617,31 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 -->
 </div> <!-- End of 'Python' section. -->
 
+<div id="make"> <!-- Start of 'Make' section. -->
+  <h3>Make</h3>
+
+  <p>
+    <a href="https://www.gnu.org/software/make/">Make</a> is a tool
+    which can run commands to read files, process these files in some
+    way, and write out the processed files. For example, in software
+    development, Make is used to compile source code into executable
+    programs or libraries, but Make can also be used to:
+
+    <ul>
+      <li> run analysis scripts on raw data files to get data files
+      that summarize the raw data;</li>
+      <li>run visualization scripts on data files to produce plots; and to</li>
+      <li>parse and combine text files and plots to create papers.</li>
+    </ul>
+  </p>
+  <p>
+    The <a href="http://swcarpentry.github.io/make-novice/setup/">setup
+    page</a> has instructions for installing Make.
+  </p>
+</div> <!-- End of 'Make' section. -->
+
 <div id="r"> <!-- Start of 'R' section. -->
+<!--
   <h3>R</h3>
 
   <p>
@@ -664,9 +690,11 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
       </p>
     </div>
   </div>
+-->
 </div> <!-- End of 'R' section. -->
 
 <div id="sql"> <!-- Start of 'SQLite' section. -->
+<!--
   <h3>SQLite</h3>
 
   <p>
@@ -710,9 +738,11 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   <p><strong>If you installed Anaconda, it also has a copy of SQLite
     <a href="https://github.com/ContinuumIO/anaconda-issues/issues/307">without support to <code>readline</code></a>.
     Instructors will provide a workaround for it if needed.</strong></p>
+    -->
 </div> <!-- End of 'SQLite' section. -->
 
 <div id="openrefine"> <!-- Start of 'OpenRefine' section. -->
+  <!--
   <h3>OpenRefine</h3>
   <p>
     For this lesson you will need <em>OpenRefine</em> and a
@@ -757,6 +787,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
       <p>If you are using a different browser, or if OpenRefine does not automatically open for you, point your browser at <a href="http://127.0.0.1:3333/">http://127.0.0.1:3333/</a> or <a href="http://localhost:3333">http://localhost:3333</a> to use the program.</p>
     </div>
   </div>
+  -->
 </div> <!-- End of 'OpenRefine' section. -->
 
 <!--
