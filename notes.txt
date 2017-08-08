@@ -1,0 +1,117 @@
+To preview:
+
+$ jekyll serve
+
+then use firefox to view http://127.0.0.1:4000/
+
+====================================================================
+
+Web Page:
+
+Source at: https://github.com/fraserphysics/2017-08-24LosAlamos
+
+Preview at: https://fraserphysics.github.io/2017-08-24LosAlamos/
+
+====================================================================
+
+Helpers:
+
+Name                    Email                      Response
+
+Austin Paul McCartney   amccartney@lanl.gov        yes
+Reid Porter             dada.rugpor@outlook.com    yes
+Zachary Kent Baker      zbaker@lanl.gov
+Stephen Andrews         saandrews@lanl.gov         yes
+Jonathan K. Maccarthy   jkmacc@lanl.gov
+Lori Pritchett-Sheats   lpritch@lanl.gov
+Marc Charest            charest@lanl.gov
+Johnny Collins          juan@lanl.gov
+Nick Denissen           denissen@lanl.gov
+Lucy Frey               lfrey@lanl.gov
+Jimmy Fung              fung@lanl.gov
+Angela Herring          angelah@lanl.gov
+Brian Jean              baj@lanl.gov
+Mack Kenamond           kenamond@lanl.gov
+Chris Malone            cmalone@lanl.gov           yes
+Guy McNamara            mcnamara@lanl.gov
+Gabe Rockefeller        gaber@lanl.gov             no
+Brandon Smith           bmsmith@lanl.gov
+Carleton Coffrin        cjc@lanl.gov               Interested
+
+====================================================================
+Colleagues,
+
+I am organizing a "Software Carpentry Workshop".  It will be held
+behind Hot Rocks on August 24 and 25.  I'd like to have about 8
+helpers, and I am writing to ask if you would be willing come help.
+
+The Software Carpentry organization runs highly structured workshops.
+This is the first one I've organized.  We are bringing in Jason
+Williams as lead instructor because he has more experience.
+
+I have a draft web page at
+https://fraserphysics.github.io/2017-08-24LosAlamos/ which says in
+part:
+
+    Software Carpentry aims to help researchers get their work done in
+    less time and with less pain by teaching them basic research
+    computing skills. This hands-on workshop will cover basic concepts
+    and tools, including program design, version control, data
+    management, and task automation.
+
+If the event is successful, I hope to organize others in the future
+and to recruit some of you to become instructors.
+
+Please let me know if you can help out.
+
+Andy
+====================================================================
+Email summary:
+
+Date         From
+
+8/3/2017     Williams, Jason <williams@cshl.edu>  (I replied 8/3)
+
+    Did we discuss who will cover what? I am happy with
+    Git/Shell/Python. Haven’t used MAKE but can learn.
+
+
+8/3/2017     Williams, Jason <williams@cshl.edu>
+
+    My workshop at New Mexico State is a go, so I will handle and pay
+    for my travel to New Mexico. If LANL can pay for hotel (Aug 23-26)
+    that would be great. Can you let me know how to get this started?
+
+8/1/2017     Williams, Jason <williams@cshl.edu>
+
+    Yes, I am still waiting another two days or so, but since there is a
+    chance it means you won’t have to pay my way
+
+8/1/2017     Katrin    (I made a bogus reply and a correction)
+
+    Maneesha,
+
+    Have you had a chance to work on the registration website for
+    LANL’s SWC workshop yet?  If so, please send me the URL and login
+    info so that I can get a feel for what you are doing.
+
+7/20/2017    Williams, Jason <williams@cshl.edu> (Replied 8/3)
+
+    Looks good!
+
+    You can make me a collaborator on the repo and then I will get an
+    invitation from github. On the github repo page click on setting
+    and then you will see an option called collaborators. I am
+    JasonJWilliamsNY on GitHub.
+
+7/17/2017     Williams, Jason <williams@cshl.edu> (I replied 7/20)
+
+    Forgot where I am going. Sure; we can chat by phone any time
+    (office: 516-367-5186). I am used to conference calls at home when
+    needed, so Google Hangouts can work when we need that.
+
+
+%%%---------------
+%%% Local Variables:
+%%% mode: text
+%%% End:
