@@ -5,6 +5,15 @@ $ jekyll serve
 then use firefox to view http://127.0.0.1:4000/
 
 ====================================================================
+Announcements:
+
+2017-8-8 Email to XCP-8@lanl.gov
+
+2017-8-10 Email to X and Kary Myers for R&D Central
+
+2017-8-14 Filled out LANL today form
+
+====================================================================
 
 Web Page:
 
@@ -16,13 +25,18 @@ Preview at: https://fraserphysics.github.io/2017-08-24LosAlamos/
 
 Helpers:
 
-Name                    Email                      Response
+Name                    Email                      Response  Mac Win Lin
 
-Austin Paul McCartney   amccartney@lanl.gov        yes
-Reid Porter             dada.rugpor@outlook.com    yes
+Stephen Andrews         saandrews@lanl.gov         yes       x       x
+Christoph Junghans      junghans@lanl.gov          yes
+Chris Malone            cmalone@lanl.gov           yes               x
+Austin Paul McCartney   amccartney@lanl.gov        yes       x   x   x
+Reid Porter             dada.rugpor@outlook.com    yes           x   x
+
+Carleton Coffrin        cjc@lanl.gov               Interested
+Jonathan K. Maccarthy   jkmacc@lanl.gov                      x       x
+
 Zachary Kent Baker      zbaker@lanl.gov
-Stephen Andrews         saandrews@lanl.gov         yes
-Jonathan K. Maccarthy   jkmacc@lanl.gov
 Lori Pritchett-Sheats   lpritch@lanl.gov
 Marc Charest            charest@lanl.gov
 Johnny Collins          juan@lanl.gov
@@ -32,11 +46,9 @@ Jimmy Fung              fung@lanl.gov
 Angela Herring          angelah@lanl.gov
 Brian Jean              baj@lanl.gov
 Mack Kenamond           kenamond@lanl.gov
-Chris Malone            cmalone@lanl.gov           yes
 Guy McNamara            mcnamara@lanl.gov
 Gabe Rockefeller        gaber@lanl.gov             no
 Brandon Smith           bmsmith@lanl.gov
-Carleton Coffrin        cjc@lanl.gov               Interested
 
 ====================================================================
 Colleagues,
